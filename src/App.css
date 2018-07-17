@@ -1,0 +1,5 @@
+.navbar {
+  background-color: cadetblue;
+  display: grid;
+  grid-template-columns: auto auto;
+}

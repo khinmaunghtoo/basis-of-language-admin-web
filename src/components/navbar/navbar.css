@@ -1,0 +1,18 @@
+.navcontainer {
+  background-color: cadetblue;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.buttonContainer {
+  font-size: 30px;
+  text-align: center;
+}
+
+.buttonContainer a {
+  text-decoration: none
+}
+
+.buttonText {
+  color: aliceblue;
+}
